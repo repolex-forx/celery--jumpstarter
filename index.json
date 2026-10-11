@@ -1,0 +1,11 @@
+{
+  "org": "celery",
+  "repo": "jumpstarter",
+  "versions": [
+    {
+      "commit": "43dbf34e5e90ac53aff3acb524b0a47d115bb7c2",
+      "tag": "",
+      "parsed_at": "2026-10-11T06:04:23.185725+00:00"
+    }
+  ]
+}
