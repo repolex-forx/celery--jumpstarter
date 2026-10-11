@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/celery/jumpstarter/commit/43dbf34e5e90ac53aff3acb524b0a47d115bb7c2",
       "git:hexsha": "43dbf34e5e90ac53aff3acb524b0a47d115bb7c2",
-      "repolex:parseStatus": "metadata_complete"
+      "repolex:parseStatus": "ast_complete"
     }
   ]
 }
